@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogsGenerator_AZ-Storage-Queue", "LogsGenerator_AZ-Storage-Queue\LogsGenerator_AZ-Storage-Queue.csproj", "{20F5FF02-E86F-4EDE-9133-CE0988A62295}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20F5FF02-E86F-4EDE-9133-CE0988A62295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F5FF02-E86F-4EDE-9133-CE0988A62295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F5FF02-E86F-4EDE-9133-CE0988A62295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F5FF02-E86F-4EDE-9133-CE0988A62295}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
